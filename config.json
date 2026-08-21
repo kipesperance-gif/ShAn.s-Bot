@@ -19,7 +19,7 @@
   "adminBot": [
     "61587759572328",
     "61579279925067",
-    "",
+    "61588676516462",
     ""
   ],
   "whiteListMode": {
@@ -141,4 +141,4 @@
     "autoReconnect": false,
     "notes": "Document here: https://github.com/ntkhang03/fb-chat-api/blob/master/DOCS.md#apisetoptionsoptions "
   }
-  }
+}
